@@ -9,7 +9,7 @@ env:
   LOCATION: westus2
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: d9e47281-9170-48bc-9a70-e6842dac29c2
-  WEBAPP-NAME: eshoponweb-webapp53841190
+  WEBAPP-NAME: eshoponweb-webapp-kathir
 
 
 jobs:
